@@ -1,0 +1,7 @@
+*.pyc
+.DS_Store
+*.egg-info
+tmp/*
+venv/*
+docker/grafana/*
+!docker/grafana/template/*
